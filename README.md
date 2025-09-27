@@ -37,6 +37,8 @@ THM-Explained/
 3. Commit với message rõ ràng (ví dụ: `add: WF1 Task2 Explained`).  
 4. Push lên branch riêng, rồi tạo Pull Request để merge vào `main`.
 
+## Changelog
+Xem chi tiết thay đổi tại [CHANGELOG.md](CHANGELOG.md).
 ---
 
 ## Introduction (English)
@@ -63,3 +65,5 @@ See the folder tree above for modules (WindowsFundamentals, AD, CommandLine, etc
 
 ## License
 MIT License (optional).
+
+
