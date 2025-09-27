@@ -95,3 +95,10 @@ MIT License (optional, có thể thêm sau nếu cần).
 
 ## Changelog
 Xem chi tiết thay đổi tại [CHANGELOG.md](CHANGELOG.md).
+
+---
+
+## Personal Note
+This repository was officially structured and documented on **27/09/2025**,  
+which also happens to be the Feast Day of **St. Vincent Paul**, my patron saint.  
+While I already have a solid background in security, this marks the beginning of rebuilding and advancing my cybersecurity career in the U.S.
