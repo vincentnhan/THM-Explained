@@ -29,16 +29,31 @@ THM-Explained/
 └── Career/                 # Build your Cyber Security Career
 ```
 
-
-
 ### Cách đóng góp
-1. Clone repo về máy.  
-2. Thêm/chỉnh sửa file `.md` theo đúng format.  
-3. Commit với message rõ ràng (ví dụ: `add: WF1 Task2 Explained`).  
-4. Push lên branch riêng, rồi tạo Pull Request để merge vào `main`.
+1. **Clone repo** về máy:  
+   ```
+   git clone https://github.com/vincentnhan/THM-Explained.git
+   cd THM-Explained
+   ```
+2. **Tạo branch mới** để làm việc (không commit trực tiếp vào `main`):  
+   ```
+   git checkout -b feature/wf1-task2
+   ```
+   > Đặt tên branch ngắn gọn, ví dụ: `feature/wf1-task2` hoặc `docs/update-readme`.
+3. **Chỉnh sửa hoặc thêm file `.md`** theo đúng format Q&A Explained.  
+   Ví dụ: `WindowsFundamentals/WF1_QA_v1.md`.
+4. **Commit với message rõ ràng** (theo convention: `add:`, `fix:`, `docs:`...):  
+   ```
+   git add WindowsFundamentals/WF1_QA_v1.md
+   git commit -m "add: WF1 Task2 Explained"
+   ```
+5. **Push lên GitHub**:  
+   ```
+   git push origin feature/wf1-task2
+   ```
+6. **Tạo Pull Request (PR)** từ branch vừa push vào `main`.  
+   Trong PR mô tả ngắn gọn bạn đã thêm/sửa gì.
 
-## Changelog
-Xem chi tiết thay đổi tại [CHANGELOG.md](CHANGELOG.md).
 ---
 
 ## Introduction (English)
@@ -56,14 +71,27 @@ The goal is to make learning easier and to have quick references later.
 See the folder tree above for modules (WindowsFundamentals, AD, CommandLine, etc.).
 
 ### Contribution
-1. Clone this repo.  
-2. Add or update `.md` files with the same format.  
-3. Commit with clear messages (e.g., `add: WF1 Task2 Explained`).  
-4. Push to a new branch and open a Pull Request to merge into `main`.
+1. **Clone the repo** to your local machine:  
+   ```
+   git clone https://github.com/vincentnhan/THM-Explained.git
+   cd THM-Explained
+   ```
+2. **Create a new branch** (don’t commit directly to `main`):  
+   ```
+   git checkout -b feature/wf1-task2
+   ```
+3. **Edit or add `.md` files** following the Explained Q&A format.  
+4. **Commit with a clear message** (e.g., `add: WF1 Task2 Explained`).  
+5. **Push to GitHub**:  
+   ```
+   git push origin feature/wf1-task2
+   ```
+6. **Open a Pull Request (PR)** from your branch into `main`.  
 
 ---
 
 ## License
-MIT License (optional).
+MIT License (optional, có thể thêm sau nếu cần).
 
-
+## Changelog
+Xem chi tiết thay đổi tại [CHANGELOG.md](CHANGELOG.md).
