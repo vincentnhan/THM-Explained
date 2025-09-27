@@ -28,6 +28,7 @@ THM-Explained/
 └── Career/                 # Build your Cyber Security Career
 
 
+
 ### Cách đóng góp
 1. Clone repo về máy.  
 2. Thêm/chỉnh sửa file `.md` theo đúng format.  
@@ -59,4 +60,4 @@ See the folder tree above for modules (WindowsFundamentals, AD, CommandLine, etc
 ---
 
 ## License
-MIT License (optional, có thể thêm sau nếu cần).
+MIT License (optional).
