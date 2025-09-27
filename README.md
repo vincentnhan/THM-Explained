@@ -13,6 +13,7 @@ Mục tiêu là giúp việc học dễ hiểu hơn, và có thể đọc lại 
 
 ### Cấu trúc repo
 
+```
 THM-Explained/
 ├── WindowsFundamentals/    # Windows Fundamentals 1–3
 ├── ActiveDirectory/        # Active Directory Basics
@@ -26,6 +27,7 @@ THM-Explained/
 ├── SecuritySolutions/
 ├── DefensiveSecurityTooling/
 └── Career/                 # Build your Cyber Security Career
+```
 
 
 
