@@ -5,7 +5,10 @@
 ## Q1 (THM): What is the meaning of NTFS?
 - **Đáp án:** NTFS = New Technology File System.  
 - **Vì sao đúng:** Đây là hệ thống tập tin mặc định của Windows hiện đại, thay thế FAT16/FAT32 và HPFS. NTFS hỗ trợ file > 4GB, phân quyền chi tiết, nén, mã hóa, và journaling để phục hồi sau sự cố.  
-- **Cách tự kiểm chứng:** Chuột phải ổ C: → Properties → sẽ thấy File System: NTFS.  
+- **Cách tự kiểm chứng:** 
+	```powershell
+	Chuột phải ổ C: → Properties → sẽ thấy File System: NTFS.  
+	 ``` 
 - **Lưu ý:** FAT32 vẫn dùng cho USB/thẻ nhớ vì tương thích cao, nhưng hạn chế nhiều so với NTFS.  
 
 ---
@@ -21,7 +24,10 @@
 ## Q3 (Bổ sung): NTFS có tính năng nào giúp phục hồi khi hệ thống gặp sự cố?
 - **Đáp án:** Journaling.  
 - **Vì sao đúng:** NTFS ghi log các thay đổi, có thể tự động khôi phục folder/file khi crash. FAT32 không có.  
-- **Cách tự kiểm chứng:** Tắt đột ngột máy Windows, khi bật lại sẽ thấy quá trình **Checking file system (chkdsk)** dựa trên journaling.  
+- **Cách tự kiểm chứng:** 
+	```powershell
+	Tắt đột ngột máy Windows, khi bật lại sẽ thấy quá trình **Checking file system (chkdsk)** dựa trên journaling.  
+	```
 - **Lưu ý:** Journaling giúp giảm mất mát dữ liệu nhưng không thay thế backup.  
 
 ---
