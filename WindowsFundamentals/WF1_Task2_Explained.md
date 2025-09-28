@@ -8,9 +8,9 @@
   - Windows 10/11 cho phép bật/tắt ô Search box trên Taskbar.  
   - Có ba tùy chọn: Hidden, Show search icon, Show search box.  
 - **Cách tự kiểm chứng:**  
-  1. Nhấp chuột phải Taskbar.  
-  2. Vào **Search** → chọn **Hidden**.  
-  3. Quan sát Search box biến mất.  
+  > Nhấp chuột phải Taskbar.  
+  > Vào **Search** → chọn **Hidden**.  
+  > Quan sát Search box biến mất.  
 - **Lưu ý:**  
   - Trên Windows 11, mặc định là biểu tượng kính lúp (Search icon), không phải ô dài như Windows 10.  
 
@@ -22,9 +22,9 @@
   - Nút Task View (hình 2 cửa sổ chồng nhau) cho phép xem các Virtual Desktops & timeline.  
   - Người dùng có thể tắt đi bằng menu chuột phải Taskbar.  
 - **Cách tự kiểm chứng:**  
-  1. Chuột phải Taskbar.  
-  2. Bỏ chọn **Show Task View button**.  
-  3. Nút Task View sẽ biến mất.  
+  > Chuột phải Taskbar.  
+  > Bỏ chọn **Show Task View button**.  
+  > Nút Task View sẽ biến mất.  
 - **Lưu ý:**  
   - Trên Windows 11, phím tắt **Win + Tab** vẫn mở Task View dù icon bị ẩn.  
 
@@ -35,8 +35,8 @@
 - **Vì sao đúng:**  
   - Notification Area (System Tray) luôn có **Clock**, **Network**, và **Volume** mặc định.  
 - **Cách tự kiểm chứng:**  
-  - Quan sát góc phải dưới Taskbar.  
-  - Thấy biểu tượng loa (Volume) cạnh biểu tượng Wi-Fi/Network.  
+  > Quan sát góc phải dưới Taskbar.  
+  > Thấy biểu tượng loa (Volume) cạnh biểu tượng Wi-Fi/Network.  
 - **Lưu ý:**  
   - Một số icon có thể ẩn trong mũi tên `^`, nhưng Clock/Network/Volume luôn hiện.  
 
