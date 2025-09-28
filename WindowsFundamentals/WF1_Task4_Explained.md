@@ -50,7 +50,3 @@
   Get-Item -Path .\example.txt -Stream *
   ```  
 - **Lưu ý:** Khi điều tra forensics/DFIR, cần kiểm ADS để phát hiện dữ liệu ẩn.  
-
----
-
-✅ Đây là phiên bản **Task 4 – Windows Fundamentals 1 (Explained)** theo format chuẩn giống Task 3: mỗi câu hỏi có **Đáp án → Vì sao đúng → Cách tự kiểm chứng → Lưu ý**.
