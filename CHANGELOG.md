@@ -15,8 +15,7 @@ All notable changes to this project will be documented in this file.
 - WindowsFundamentals/WF1_Task8_Explained.md (Settings and the Control Panel — Explained v1)
 - WindowsFundamentals/WF1_Task9_Explained.md (Task Manager — Explained v1)
 - WindowsFundamentals/WF1_Task10_Explained.md (Conclusion — Explained v1)
-
-
+- CommandLine/WindowsCommandLine_Task2_Explained.md (Basic System Information) — Explained v1
 
 ## [0.1.2] - 2025-09-27
 ### Docs
