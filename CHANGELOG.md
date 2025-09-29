@@ -21,6 +21,8 @@ All notable changes to this project will be documented in this file.
 - CommandLine/WindowsCommandLine_Task4_Explained.md (File and Disk Management) — Explained v1
 - CommandLine/WindowsCommandLine_Task5_Explained.md (Task and Process Management) — Explained v1
 - CommandLine/WindowsCommandLine_Task6_Explained.md (Conclusion) — Explained v1
+- CommandLine/WindowsPowerShell_Task1_Explained.md (Introduction) — Explained v1
+- CommandLine/WindowsPowerShell_Task2_Explained.md (What Is PowerShell) — Explained v1
 
 ## [0.1.2] - 2025-09-27
 ### Docs
