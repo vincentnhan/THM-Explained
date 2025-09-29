@@ -67,7 +67,3 @@ more readme.txt
 systeminfo | more
 ```
 - **Lưu ý:** Với PowerShell có thể thay thế bằng `Out-Host -Paging`.
-
----
-
-✅ Task 6 đã được giải thích theo format: **Đáp án → Vì sao đúng → Cách tự kiểm chứng → Lưu ý** (2 câu THM + 4 câu bổ sung).
