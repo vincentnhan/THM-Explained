@@ -10,6 +10,9 @@ All notable changes to this project will be documented in this file.
 - WindowsFundamentals/WF1_Task3_Explained.md (Introduction to Windows — Explained v1)
 - WindowsFundamentals/WF1_Task4_Explained.md (The File System — Explained v1)
 - WindowsFundamentals/WF1_Task5_Explained.md (System32 Folders — Explained v1)
+- WindowsFundamentals/WF1_Task6_Explained.md (User Accounts, Profiles, and Permissions — Explained v1)
+- WindowsFundamentals/WF1_Task7_Explained.md (User Account Control — Explained v1)
+- WindowsFundamentals/WF1_Task8_Explained.md (Settings and the Control Panel — Explained v1)
 
 
 ## [0.1.2] - 2025-09-27
